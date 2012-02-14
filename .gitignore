@@ -1,0 +1,7 @@
+*.user
+*.suo
+*.sln.cache
+*.xap
+_ReSharp.*
+[bB]in/
+[oO]bj/
